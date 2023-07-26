@@ -32,6 +32,7 @@ My mission is to leverage data to drive meaningful insights and create value for
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)](https://docs.streamlit.io/) 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=Render&logoColor=white&labelColor=101010)](https://render.com/docs)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white&labelColor=101010)](https://docs.streamlit.io/) 
 [![Zebra BI](https://img.shields.io/badge/Zebra%20BI-808080?style=for-the-badge&logo=soundcharts&logoColor=white&labelColor=101010)](https://help.zebrabi.com/kb/power-bi/intro-zbi-power-bi/) 
 [![Uvicorn](https://img.shields.io/badge/Uvicorn-3F51B5?style=for-the-badge&logo=Gunicorn&logoColor=white&labelColor=101010)](https://www.uvicorn.org/)
 
