@@ -11,7 +11,7 @@
 - **Data Science Expertise:** Proficient in statistical analysis, machine learning, and data visualization.
 - **Data Engineering Skills:** Experienced in data pipeline development and management.
 - **Data Analytics:** Skilled in extracting valuable insights from data to drive informed decisions.
-- **Mathematics Enthusiast:** Strong background in differential calculus, integral calculus, vector calculus, differential equations, statistics, linear algebra.
+- **Mathematics & Statistics:** Strong background in differential calculus, integral calculus, vector calculus, differential equations, statistics, linear algebra.
   
 ### **Academic Background**
 - **Data Science Bootcamp at [Henry](https://www.soyhenry.com/carrera-data-science):** Developed comprehensive projects with a focus on real-world applications, honing skills in statistical analysis, machine learning, data visualization, and data engineering practices.
