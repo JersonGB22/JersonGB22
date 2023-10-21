@@ -23,6 +23,9 @@
 - Strong mathematical foundation behind machine learning & deep learning algorithms.
 - Practical application knowledge in real-world use cases, with the ability to make architectural decisions, optimize model performance, and scale solutions effectively.
   
+### **Cloud Architecture and Solutions with AWS:** 
+Proficient in implementing and managing cloud solutions using Amazon Web Services (AWS). Solid understanding of AWS services such as IAM, EC2, S3, DynamoDB, RDS, Lambda, Redshift, Kinesis, Glue, EMR, VPC, CloudWatch, Athena, QuickSight, SageMaker, among others. Capable of designing secure and efficient cloud computing architectures, creating Data Lakes and performing data analysis.
+
 ### **Mission and Purpose**
 My mission is to leverage data to drive meaningful insights and create value for businesses and society.
 
