@@ -1,40 +1,26 @@
 # ***Hello there! My name is Jerson Gimenes Beltrán 👋***
 
-#### *Data Scientist with a strong background in Data Engineering and Data Analytics.*
-
 <p align="center">
 <img src="https://github.com/JersonGB22/JersonGB22/blob/main/banner_github.png"> 
 </p>
 
 # **About Me**
 
-- **Data Science Expertise:** Proficient in statistical analysis, machine learning, and data visualization.
-- **Data Engineering Skills:** Experienced in data pipeline development and management.
-- **Data Analytics:** Skilled in extracting valuable insights from data to drive informed decisions.
-- **Advanced Mathematics & Statistics:** Strong background in differential calculus, integral calculus, vector calculus, differential equations, statistics, linear algebra.
+Peruvian Data Scientist, specialized in Machine Learning, Data Engineering, and Data Analytics, with a background in Environmental Engineering. Proficient in data structuring, data analysis, and the creation of Machine Learning models. I have expertise in Python, TensorFlow, MySQL, Power BI, Apache Spark, and statistics, with a strong understanding of AWS and Tableau. 
   
 ### **Academic Background**
 - **Data Science Bootcamp at Henry:** Developed comprehensive projects with a focus on real-world applications, honing skills in statistical analysis, machine learning, data visualization, and data engineering practices.
 - **Environmental Engineering (Ongoing) at UPCH:** Focused on gaining a strong foundation in mathematics and problem-solving while pursuing a dual educational path alongside Data Science.
-
-### **Advanced Data Science with IBM Specialization Program**
-
-- Deep understanding of massive parallel data processing, data exploration, and advanced machine learning & deep learning.
-- Strong mathematical foundation behind machine learning & deep learning algorithms.
-- Practical application knowledge in real-world use cases, with the ability to make architectural decisions, optimize model performance, and scale solutions effectively.
-  
-### **Cloud Architecture and Solutions with AWS:** 
-Proficient in implementing and managing cloud solutions using Amazon Web Services (AWS). Solid understanding of AWS services such as IAM, EC2, S3, DynamoDB, RDS, Lambda, Redshift, Kinesis, Glue, EMR, VPC, CloudWatch, Athena, QuickSight, SageMaker, among others. Capable of designing secure and efficient cloud computing architectures, creating Data Lakes and performing data analysis.
 
 ### **Mission and Purpose**
 My mission is to leverage data to drive meaningful insights and create value for businesses and society.
 
 # **Technologies**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://docs.python.org/3/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)](https://www.tensorflow.org/api_docs)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)](https://learn.microsoft.com/en-us/power-bi/) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://dev.mysql.com/doc/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)](https://aws.amazon.com/es/free/?gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B9Hkiiw-3Bn1fREwAKYGhcurWpAF8I0UZohtrB0sH_C0-iqzrrzLHcaAmSnEALw_wcB&trk=1b5e0cad-6939-407d-b265-d513ac796285&sc_channel=ps&ef_id=Cj0KCQjw_O2lBhCFARIsAB0E8B9Hkiiw-3Bn1fREwAKYGhcurWpAF8I0UZohtrB0sH_C0-iqzrrzLHcaAmSnEALw_wcB:G:s&s_kwcid=AL!4422!3!647999789244!p!!g!!aws!19685311604!143348651942)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)](https://www.tensorflow.org/api_docs)
 
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)](https://spark.apache.org/docs/latest/)
