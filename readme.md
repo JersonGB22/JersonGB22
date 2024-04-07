@@ -6,7 +6,7 @@
 
 # **About Me**
 
-Peruvian Data Scientist, specialized in Machine Learning, Data Engineering, and Data Analytics, with a background in Environmental Engineering. Proficient in data structuring, data analysis, and the creation of Machine Learning models. I have expertise in Python, TensorFlow, MySQL, Power BI, Apache Spark, and statistics, with a strong understanding of AWS PyTorch and Tableau. 
+Peruvian Data Scientist, specialized in Machine Learning, Data Engineering, and Data Analytics, with a background in Environmental Engineering. Proficient in data structuring, data analysis, and the creation of Machine Learning models. I have expertise in Python, TensorFlow, MySQL, Power BI, Apache Spark, and statistics, with a strong understanding of AWS, PyTorch and Tableau. 
   
 ### **Academic Background**
 - **Data Science Bootcamp at Henry:** Developed comprehensive projects with a focus on real-world applications, honing skills in statistical analysis, machine learning, data visualization, and data engineering practices.
