@@ -10,7 +10,7 @@ Data Scientist specializing in Deep Learning and TensorFlow, with experience in 
   
 ### **Academic Background**
 - **Data Science Bootcamp at Henry:** Developed comprehensive projects with a focus on real-world applications, honing skills in statistical analysis, machine learning, data visualization, and data engineering practices.
-- **Environmental Engineering (Ongoing) at UPCH:** Focused on gaining a strong foundation in mathematics and problem-solving while pursuing a dual educational path alongside Data Science.
+- **Environmental Engineering at UPCH:** Focused on gaining a strong foundation in mathematics and statistics while pursuing a dual educational path alongside Data Science.
 
 ### **Mission and Purpose**
 My mission is to leverage data to drive meaningful insights and create value for businesses and society.
